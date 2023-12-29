@@ -1,0 +1,11 @@
+.active-user {
+    list-style-type: none;
+    background-color: #e6ebf2;
+    padding: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+    font-size: 17px;
+    border-bottom: solid 1px #bac4d4;
+}
